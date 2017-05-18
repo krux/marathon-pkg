@@ -1,3 +1,4 @@
 [submodule "marathon"]
 	path = marathon
-	url = https://github.com/mesosphere/marathon.git
+	url = https://github.com/krux/marathon.git
+	branch = ours
