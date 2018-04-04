@@ -1,4 +1,4 @@
 [submodule "marathon"]
 	path = marathon
 	url = https://github.com/krux/marathon.git
-	branch = ours
+	branch = master
